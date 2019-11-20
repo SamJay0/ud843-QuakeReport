@@ -24,7 +24,7 @@ This sample uses the Gradle build system. To build this project, use the
 My progress
 ---------------
 >As of 20th Nov 2019
-![image1](/images/img1.png)
+![image1](/images/img1.png =20x100)
 
 Support
 -------
