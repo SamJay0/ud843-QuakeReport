@@ -21,6 +21,11 @@ Getting Started
 This sample uses the Gradle build system. To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
 
+My progress
+---------------
+>As of 20th Nov 2019
+![image1](/images/image1.png)
+
 Support
 -------
 
