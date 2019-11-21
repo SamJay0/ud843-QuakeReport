@@ -24,8 +24,7 @@ This sample uses the Gradle build system. To build this project, use the
 My progress
 ---------------
 >As of 20th Nov 2019
-	*image resize via terminal ***convert -resize img1.png img2.png***
-![image1](/images/img1.png)
+>![image1](/images/img1.png)
 
 Support
 -------
